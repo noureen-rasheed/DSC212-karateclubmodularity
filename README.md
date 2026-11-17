@@ -1,8 +1,7 @@
 # DSC212 Assignment
 ## Modularity on the Karate Club Graph
 
-Name: Noureen Rasheed Ullattuthodiyil
-Roll no: IMS25144
+Name: Noureen Rasheed Ullattuthodiyil | Roll no: IMS25144
 
 ### Contents:
 - `DSC212_assignment.ipynb` – Full notebook with code, outputs, visualizations, discussion
